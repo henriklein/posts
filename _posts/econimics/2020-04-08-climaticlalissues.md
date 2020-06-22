@@ -10,10 +10,6 @@ permalink: /:categories/:title
 
 ### Climate change - extreme Heat across the Globe
 
-Henri Klein | Schmitt
-
----
-
 ## Introduction
 
 It is sweltering outside. It is evident that climate change is real. 2016 has been the hottest year since the starting of measurement in the 1880s. Three out of four of the warmest years since analysis happened in the last century; It doesn't look better for the following years. It seems like some more world records will be broken! People avoid going out. While the temperature increases, Earth is begging us to stop creating a massive Bushfire in Australia. I guess it's for certain that people already smell the hellfire of climate change.
