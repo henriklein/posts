@@ -1,4 +1,10 @@
-## GDP assignment
+---
+layout: post
+title: "an definition of the GDP"
+date: 2020-06-02
+categories: economics
+permalink: /:categories/:title
+---
 
 Henri Klein | Schmitt
 
@@ -11,3 +17,5 @@ Henri Klein | Schmitt
 3.GDP merely measures the size of a nation's economy and doesn't reflect a nation's welfare and cost of living. GDP could be as outlined above, disconnected. It also does not include the inflation rate and therefore, the purchasing power parity is a better indicator or measurement when comparing differences in living standards between nations.
 
 \4. W3 indicators have initially been developed to overcome the limitations of the GDP and to support the GDP by adding additional information calculated to determine Humans well being, their quality of life, wealth, distribution of income, biodiversity and life expectancy.
+
+|assigned by Ms. Schmitt in SocialStudies|
