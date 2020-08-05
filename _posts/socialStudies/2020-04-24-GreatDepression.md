@@ -2,7 +2,7 @@
 layout: post
 title:  "Great Depression"
 date:   2020-04-08
-categories: socialStudies
+categories: economics
 permalink: /:categories/:title
 author: Henri Klein
 
@@ -10,9 +10,12 @@ author: Henri Klein
 
 ---
 
+below are my five causes of the of the Great Depression and my headers for the fish diagram (did not know how to put all the text in the diagram. :)
+listing factors and causes of why the great depression in the 1930 happend- which worldwide impacts it caused as well as long time consequences.
+
 ## Factors causing Great Depression
 
-below are my five causes of the of the Great Depression and my headers for the fish diagram (did not know how to put all the text in the diagram. :)
+
 
 > **Overproduction** (economy)
 >
@@ -26,7 +29,7 @@ below are my five causes of the of the Great Depression and my headers for the f
 
 > **US Protectionism** (politics)
 >
-> - Since Canada was now more dependent on the USA, they were able to set higher tariffs and priced for importing/exporting goods. 
+> - Since Canada was now more dependent on the USA, they were able to set higher tariffs and priced for importing/exporting goods.
 >  - This action led other countries to do the same -> lowing profit and creating slowdowns for everybody
 
 > **Unemployment** (society)
@@ -37,7 +40,7 @@ below are my five causes of the of the Great Depression and my headers for the f
 > **Stock market crash** (wealth)
 >
 > - All those depressing and frustrating causes above might explain people's situation, committing suicide to escape.
-> - One man described his situation after coming home, seeing his whole family dead. It came out that his wife could hold up any more, deciding to kill her kids and later her. A note saying she owns the pharmacy 48 cents got her in that situation. 
+> - One man described his situation after coming home, seeing his whole family dead. It came out that his wife could hold up any more, deciding to kill her kids and later her. A note saying she owns the pharmacy 48 cents got her in that situation.
 
 ---
 
@@ -45,9 +48,9 @@ below are my five causes of the of the Great Depression and my headers for the f
 
 ### Stocks impact to the Great Depression
 
->  One of the most significant impacts on the Great Depression was the stock market crash. 
+>  One of the most significant impacts on the Great Depression was the stock market crash.
 
-> It was an unpredictable time for investments. Investors didn't want to take risks by investing in companies that would probably fail occasioned by the financial and political situation back then. First sold off their stocks to spend their money rather on food or other foreign currencies like gold or diamonds, than on as pointed out instable assets. 
+> It was an unpredictable time for investments. Investors didn't want to take risks by investing in companies that would probably fail occasioned by the financial and political situation back then. First sold off their stocks to spend their money rather on food or other foreign currencies like gold or diamonds, than on as pointed out instable assets.
 
 > After the first started selling their stocks, the stock market run down, what got even more peoples to sell their shares. That was a vicious circle until no company that was on the market and trading stocks was worth any more money. That caused society's but also economic poorness since the wealth of a nation and its human beings face society's economy.
 
@@ -65,11 +68,11 @@ below are my five causes of the of the Great Depression and my headers for the f
 
 > ### isolationism
 >
-> The USA became during the 1930s, after the First World War and the Great Depression, and isolationism state. It means to support non-involvement in European conflicts and to do not in international politics. It focuses on countries' wealth and keeps imports way lower than exports to reestablished contours wealth. 
+> The USA became during the 1930s, after the First World War and the Great Depression, and isolationism state. It means to support non-involvement in European conflicts and to do not in international politics. It focuses on countries' wealth and keeps imports way lower than exports to reestablished contours wealth.
 
 > ### totalitarianism
 >
-> Totalitarianism is a policy that helps countries to control the economy instead of having a free market. 
+> Totalitarianism is a policy that helps countries to control the economy instead of having a free market.
 >
 > It restricts individual opposition to the state and exercises a high degree of control over public and private life. Totalitarianism was and is used in many different Cultures. After the GD, it was used in Germany, Russia, Italy and China. Under Hitler, the strategy for recovery was to ignore free-market liberalism.
 
