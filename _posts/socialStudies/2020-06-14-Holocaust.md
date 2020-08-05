@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Holocaust"
+title:  "why events like the Holocaust will occur again"
 date:   2020-06-12
 categories: socialStudies
 permalink: /:categories/:title
@@ -8,7 +8,7 @@ author: Henri Klein | Hoskin
 
 ---
 
-Hitlers realisations on how to kill millions of ordinary people systematically
+a compact documentary about Hitlers realisations on how to kill millions of ordinary people systematically and its similarities to modern politician
 
 ---
 

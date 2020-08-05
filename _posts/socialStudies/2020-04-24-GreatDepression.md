@@ -12,8 +12,6 @@ author: Henri Klein
 
 listing factors and causes of why the great depression in the 1930 happend- which worldwide impacts it caused as well as long time consequences.
 
-|Social studies assignment | Ms. Schmitt|
-
 ## Factors causing the Great Depression
 
 ### Overproduction
@@ -87,3 +85,6 @@ fascism seems being related to communism. Benito Mussolini used it in Italy. He 
 
 Imperialism is a policy that forces somebody willing by using weapons or another kind of blackmail. After WW1 and the Great Depression, Germany spent lots of money to get a bigger military. Back then the government did offend the Versailles treaty, and lied about his usage.
 
+---
+
+|Social studies assignment assigned by Ms. Schmitt|

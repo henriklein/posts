@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Canadian Heros"
+title:  "a true canadian hero"
 date:   2020-04-12{% include header.html %}
 categories: socialStudies
 permalink: /:categories/:title
