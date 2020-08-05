@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "c0nnect"
+title:  "the idea of an revolutionizing app"
 date:   2020-04-18
 categories: projects
 permalink: /:categories

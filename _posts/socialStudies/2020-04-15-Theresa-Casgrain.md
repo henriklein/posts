@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "a true canadian hero"
+title:  "individual's impact on a whole society"
 date:   2020-04-12{% include header.html %}
 categories: socialStudies
 permalink: /:categories/:title
