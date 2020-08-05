@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "our impact in extreme Heat across the Globe"
+title: "our impact on extreme heating across the globe"
 date: 2020-06-02
 categories: economics
 permalink: /:categories/:title

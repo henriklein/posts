@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The impact of modern entropenuers"
-date:   2020-03-08
+date:   2019-12-08
 categories: english
 permalink: /:categories/:title
 author: Henri Klein
