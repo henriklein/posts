@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "an definition of the GDP"
-date: 2020-06-02
+date: 2020-05-18
 categories: economics
 permalink: /:categories/:title
 ---
