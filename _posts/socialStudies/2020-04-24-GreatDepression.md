@@ -15,27 +15,27 @@ listing factors and causes of why the great depression in the 1930 happend- whic
 
 ## Factors causing Great Depression
 
-**Overproduction** (economy)
+### Overproduction
 
 + lowing price
 + not enough money to produce any more
 
-**Economic Dependence on Exports** (economy)
+### Economic Dependence on Exports (economy)
 
 + Too much wheat and newsprint produced
 + Canada exported 80% of wheat before 1920, after that the USA, and later Argentina and Australia concurrent with Canada and lowered the price.
 
-**US Protectionism** (politics)
+### US Protectionism (politics)
 
 + Since Canada was now more dependent on the USA, they were able to set higher tariffs and priced for importing/exporting goods.
 + This action led other countries to do the same -> lowing profit and creating slowdowns for everybody
 
-**Unemployment** (society)
+### Unemployment (society)
 
 + Since many companies and countries are now battling down prices, the gain for employees got shorten, and many got fired.
 + Regarding an article from 1997 (no Name labelled), society still behaved like having no understanding of the unemployed and their issues. They got seen as criminals and lazy beings.
 
-**Stock market crash** (wealth)
+### Stock market crash (wealth)
 
 + All those depressing and frustrating causes above might explain people's situation, committing suicide to escape.
 + One man described his situation after coming home, seeing his whole family dead. It came out that his wife could hold up any more, deciding to kill her kids and later her. A note saying she owns the pharmacy 48 cents got her in that situation.
