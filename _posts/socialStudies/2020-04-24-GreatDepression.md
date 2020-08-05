@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "what causes a Great Depression?"
-date:   2020-04-08
+date:   2020-05-12
 categories: economics
 permalink: /:categories/:title
 author: Henri Klein
@@ -39,7 +39,7 @@ listing factors and causes of why the great depression in the 1930 happend- whic
 + All those depressing and frustrating causes above might explain people's situation, committing suicide to escape.
 + One man described his situation after coming home, seeing his whole family dead. It came out that his wife could hold up any more, deciding to kill her kids and later her. A note saying she owns the pharmacy 48 cents got her in that situation.
 
-## 
+##
 
 ## Stocks impact to the Great Depression
 
