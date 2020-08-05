@@ -4,8 +4,8 @@
 # ---------------------------------------------------------------
 
 # Site
-title: School stuff
-subtitle:
+title: written stuff
+subtitle: by Henri Klein
 description:
 author: Henri Klein
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -79,12 +79,12 @@ plugins:
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "school"
+keywords: "posts, school, Henri Klein"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: false
 
 # Specify the date when the site was setup
 #since: 2015
@@ -120,7 +120,7 @@ menu:
   home: /
   categories: /categories/
   #about: /about/
-  archives: /archives/
+  archives: /timeline/
   #tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
@@ -139,7 +139,7 @@ menu_icons:
   categories: th
   schedule: calendar
   tags: tags
-  archives: archive
+  archives: history
   sitemap: sitemap
   commonweal: heartbeat
 
@@ -223,7 +223,7 @@ font:
 #   Key is the name of the item and value is the name of FontAwesome icon. Key is case-senstive.
 #   When an globe mask icon presenting up means that the item has no mapping icon.
 social_icons:
-  enable: true
+  enable: false
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
