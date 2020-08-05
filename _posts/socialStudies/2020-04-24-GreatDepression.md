@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Great Depression"
+title:  "what causes a Great Depression?"
 date:   2020-04-08
 categories: economics
 permalink: /:categories/:title
@@ -10,10 +10,11 @@ author: Henri Klein
 
 ---
 
-below are my five causes of the of the Great Depression and my headers for the fish diagram (did not know how to put all the text in the diagram. :)
 listing factors and causes of why the great depression in the 1930 happend- which worldwide impacts it caused as well as long time consequences.
 
-## Factors causing Great Depression
+|Social studies assignment | Ms. Schmitt|
+
+## Factors causing the Great Depression
 
 ### Overproduction
 
@@ -40,11 +41,11 @@ listing factors and causes of why the great depression in the 1930 happend- whic
 + All those depressing and frustrating causes above might explain people's situation, committing suicide to escape.
 + One man described his situation after coming home, seeing his whole family dead. It came out that his wife could hold up any more, deciding to kill her kids and later her. A note saying she owns the pharmacy 48 cents got her in that situation.
 
----
+## 
 
-## Analysis Question
+## Stocks impact to the Great Depression
 
-### Stocks impact to the Great Depression
+### the crash of the stock market
 
 One of the most significant impacts on the Great Depression was the stock market crash.
 
