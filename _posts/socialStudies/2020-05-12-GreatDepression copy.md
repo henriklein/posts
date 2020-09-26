@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "we are not bored enough"
-date:   2020-05-12
+date:   2020-09-20
 categories: ambition
 permalink: /:categories/:title
 author: Henri Klein
