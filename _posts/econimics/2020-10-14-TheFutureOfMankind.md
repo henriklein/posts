@@ -6,8 +6,6 @@ categories: ThoughtExperiments
 permalink: /:categories/:title
 ---
 
-# What humankind could archive if we stopped behaving like gods
-
 **Or society if we started working together, instead of fighting each other politically, economically and literally.**
 
 ![img](https://i.kym-cdn.com/entries/icons/mobile/000/026/738/future.jpg)
