@@ -18,7 +18,7 @@ Did you know that NASA Got 22 Billion dollars last year? I mean, that's too much
 
 Humans are afraid of others. Reviewing our history, it made sense, to overpower others, to outnumber potential enemies, simply to rule. But in the last 150 years, besides some throwbacks, we continually realized a greater good by working together due to globalization and industrialization. I don't understand how on one side, we are trying to archive sexual and racial equality, for example, while still not acccepting us as one big family of humankind.
 
-## Comparison
+## comparison
 
 Comparing NASAs budget, which is about 0,5 percent of the USA's annual expenditures, to the military one (32x that much), you start to wonder about the tolerance, acceptance, and futuristic vision the Government claims to have. Now, I'm not going to bullshit you with random numbers that you'll surely forget within the next 5 minutes, but lets put it that way. For every Hellfire rocket that is destroying families oversee, those ten thousands of dollars could instead be used to develop vaccines, education, renewable energy sources that we need so badly to alive, or futuristic rockets that could help us colonize other planets as a backup of our species to survive if something goes terribly wrong down here.
 
